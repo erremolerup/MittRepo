@@ -1,4 +1,4 @@
-ananas
+﻿ananas
 apelsin
 aprikos
 banan[14]
@@ -11,3 +11,4 @@ granatäpple
 grapefrukt
 kaktusfikon
 kumquat
+kiwi
