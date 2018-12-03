@@ -2,13 +2,14 @@ ananas
 apelsin
 aprikos
 banan[14]
-carambola (stj√§rnfrukt)
+carambola (stj‰rnfrukt)
 citron
 citrusfrukt
 clementin
 carambola
-granat√§pple
+granat‰pple
 grapefrukt
 kaktusfikon
 kumquat
+kiwi
 nektarin
