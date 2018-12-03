@@ -11,3 +11,4 @@ granatäpple
 grapefrukt
 kaktusfikon
 kumquat
+nektarin
